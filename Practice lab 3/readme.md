@@ -28,9 +28,9 @@ def lambda_handler(event, context):
   }
   ```
 
-![](assets/Apache.png)
+![](assets/postman.png)
 
 ## 4. Check the logs in AWS CloudWatch to verify the request processing and execution results. 🚀
 
-![](assets/Apache.png)
+![](assets/log.png)
 
