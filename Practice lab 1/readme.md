@@ -1,6 +1,6 @@
 # Deployment Steps for EC2 and RDS on AWS Dashboard
 
-![Architecture Diagram](image-link-here)
+![Architecture Diagram](assets/AWS-practice1.drawio.png)
 
 ## 1. Configure Networking
 - Set up **VPC** (Virtual Private Cloud).
@@ -70,6 +70,6 @@
 This setup ensures that your EC2 instance communicates securely with the RDS instance while keeping the database in a private subnet for security. 🚀
 
 ## 7. Result
-![Architecture Diagram](image-link-here)
-![Architecture Diagram](image-link-here)
-![Architecture Diagram](image-link-here)
+![](assets/Apache.png)
+![](assets/indexphp.png)
+![](assets/db_connect.png)
