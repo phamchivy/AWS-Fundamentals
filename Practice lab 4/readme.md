@@ -104,8 +104,8 @@ python3 read.py
 
 ## Expected Output
 The `insert.py` script should insert a new record into the `customer` table. The `read.py` script should retrieve and display all records from the table.
-![](assets/Apache.png)
-![](assets/Apache.png)
+![](assets/insert.png)
+![](assets/read.png)
 ## Conclusion
 This guide helps set up and practice MySQL with Amazon RDS using AWS infrastructure. You can further enhance security by implementing IAM roles and using parameter groups to fine-tune database performance.
 
