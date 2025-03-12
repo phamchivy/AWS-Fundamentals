@@ -2,6 +2,7 @@
 
 ## Overview
 This guide demonstrates how to set up load balancing on AWS using EC2 Auto Scaling Groups and a Load Balancer. The process includes creating an EC2 launch template, configuring an auto-scaling group, and setting up monitoring with CloudWatch.
+
 ![](assets/lb.drawio.png)
 ## Steps
 
