@@ -1,6 +1,6 @@
 # Practicing with Amazon EFS (Elastic File System)
 
-![](assets/Apache.png)
+![](assets/efs.drawio.png)
 
 ## Overview
 This guide walks through setting up and mounting an **Amazon EFS** on two EC2 instances.
@@ -52,8 +52,8 @@ Hello, World!
 ## Expected Result  
 Both EC2 instances should be able to read and write to the **same EFS storage**, demonstrating **shared file system access**.
 
-![](assets/Apache.png)
-![](assets/Apache.png)
+![](assets/server%201.png)
+![](assets/server%202.png)
 
 ---
 ✅ **Success!** You have successfully set up and mounted **Amazon EFS** on multiple EC2 instances. 🚀  
